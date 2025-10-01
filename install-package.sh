@@ -1,0 +1,1 @@
+pip install -r requirements-kaggle.txt   # for similar kaggle environment

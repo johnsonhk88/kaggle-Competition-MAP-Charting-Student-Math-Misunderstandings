@@ -1,0 +1,23 @@
+# !pip install --upgrade datasets accelerate  # add datasets, accelerate , bitsndbytes
+peft==0.14.0
+trl==0.11.4
+# !pip install --upgrade peft trl
+# !pip install -U datasets
+accelerate==1.0.1
+transformers==4.45.2
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-text-splitters==0.3.9
+langchain-community==0.3.27
+# !pip install -U deepeval==3.3.9
+# !pip install protobuf==4.25.8 #4.49.0     # 6.30.2      #==3.20.3 #4.49.0
+# !pip install triton==3.0.0   # avoid load LLM error
+bitsandbytes==0.46.1
+# !pip install unsloth==2025.9.9
+# unsloth==2025.9.1
+unsloth===2024.9
+unsloth-zoo==2024.11.0 
+xformers==0.0.27.post2
+vllm==0.6.2 #vllm==0.6.6
+# tensorflow[and-cuda]==2.18.0 # tensorflow-gpu 
+# torch==2.4.0+cu121 torchvision==0.15.1+cu121 torchaudio==2.4.0+cu121 -f https://download.pytorch.org/whl/torch_stable.html

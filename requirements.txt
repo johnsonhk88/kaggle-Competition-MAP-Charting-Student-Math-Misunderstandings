@@ -1,3 +1,0 @@
-unsloth==2025.9.9
-unsloth-zoo==2025.9.12
-Xformers==0.35.2
